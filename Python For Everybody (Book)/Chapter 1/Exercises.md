@@ -52,9 +52,19 @@ print(x)
 
 ### Exercise 8: Explain each of the following using an example of a human capability: 
 #### (1) Central Processing Unit
+The human equivalent to the Central Processing Unit is the brain.
+
 #### (2) Main Memory
+The human equivalent to Main Memory is short term memory.
+
 #### (3) Seconday Memory
+The human equivalent to Secondary Memory is long term memory.
+
 #### (4) Input Device 
+The human equivalent to an input device is the ears and eyes.
+
 #### (5) Output Device
+The human equivalent to a output device is our mouths/voices.
 
 ### Exercise 9: How do you fix a "Syntax Error"? 
+Find the "grammar" rules that have been violated, the incorrect syntax that is causing the error, and correct it. Python usually points to where the error is occuring, but sometimes the mistake was earlier in the program than when Python noticed it. 
