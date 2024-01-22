@@ -1,4 +1,6 @@
-# Python For Everybody Chapter 1 Exercises
+# Python For Everybody (Book)
+
+## Chapter 1: Why Should You Learn To Write Programs? Exercises
 
 ### Exercise 1: What is the function of the secondary memory in a computer?
 - [ ] Execute all of the computation and logic of the program
