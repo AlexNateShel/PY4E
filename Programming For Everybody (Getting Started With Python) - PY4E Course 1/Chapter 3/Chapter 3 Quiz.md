@@ -1,4 +1,4 @@
-# Chapter 3 Quiz
+# Chapter 3 Quiz PY4E
 
 ### 1. What do we do to a Python statement that is immediately after an __if__ statement to indicated that the statement is to be executed only when the __if__ statement is __true__?
 - [ ] Begin the statement with a curly brace {

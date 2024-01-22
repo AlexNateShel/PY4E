@@ -1,4 +1,4 @@
-# Chapter 2 Quiz
+# Chapter 2 Quiz PY4E
 
 ### 1. Which of the following is a comment in Python?
 - [ ] * This is a test
