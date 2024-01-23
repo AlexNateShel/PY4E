@@ -1,4 +1,4 @@
-# Python For Everybody (Book)
+# Python For Everybody (Book) (PY4E)
 
 ## Chapter 2: Variables, Expressions, and Statements Exercises
 

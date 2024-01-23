@@ -11,18 +11,28 @@
 # If the user enters a value out of range, print a suitable error message and exit. For the 
 # test, enter a score of 0.85.
 
-score = input('Enter score:')
-s = float(score)
-if s >= 0.9 :
-    print('A')
-elif s >= 0.8 :
-    print('B')
-elif s >= 0.7 :
-    print('C')
-elif s >= 0.6 :
-    print('D')
-elif s < 0.6 :
-    print('F')
-else :
-    s > 1.0 or s < 0.0 
-    print('Error score out of range')
+score = 0.0                               
+grade = ""
+
+input1 = input('Enter score: ')
+try:
+    score = float(input1)                
+except ValueError:
+    print('Bad score')
+    quit()
+
+if 0.0 <= score <= 1.0:                 
+    if score >= 0.9:
+        grade = 'A'
+    elif score >= 0.8:
+        grade = 'B'
+    elif score >= 0.7:
+        grade = 'C'
+    elif score >= 0.6:
+        grade = 'D'
+    else:
+        grade = 'F'
+else:
+    grade = 'Bad score'
+
+print(grade)
