@@ -7,5 +7,5 @@
 fname = input('Please enter a file name: ')
 fh = open(fname)
 txt = fh.read()
-text = txt.rstrip()
-print(text.upper())
+shout = txt.rstrip()
+print(shout.upper())
