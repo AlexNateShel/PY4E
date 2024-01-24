@@ -1,4 +1,4 @@
-#  Chapter 6 (PY4E) Quiz 
+#  Chapter 6 PY4E Quiz 
 
 ### 1. What does the following Python program print out?
 ```
